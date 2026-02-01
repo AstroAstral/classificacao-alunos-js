@@ -1,6 +1,7 @@
 # Avaliação de Alunos (JavaScript)
 
 Mini-projeto em JavaScript que avalia alunos com base na média das notas.
+Criado para praticar lógica de programação em JavaScript, com foco em funções, arrays e controle de fluxo.
 
 ## Regras
 
